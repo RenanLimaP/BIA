@@ -1,4 +1,4 @@
-Falta ao Waze o cálculo de gasto com combustivel (kml) e informações dos pedágios pela rota com o valor deles.
+Falta ao Waze o cálculo de gasto com combustivel (km/l) e informações dos pedágios pela rota com o valor deles.
 App muito útil, sempre utilizo, atende bem as minhas espectativas
  Depois desse última atualização difícilmente ele sintoniza na rede! Funcionava muito bem antes.
 Muito bom Uso sempre.
@@ -66,7 +66,7 @@ Muito bom....
  O melhor....
 Melhor GPS atual.
 Bom! Muito útil! Não fico sem!
-Melhor ate a atualidade por favor nao estraguem Fantástico -) -)
+Melhor ate a atualidade por favor nao estraguem Fantástico :-) :-)
 Ótimo Pratico e preciso.
 Ótimo Regular
 Otimo Me ajuda diariamente em todos os percursos e funciona bem no SII
@@ -91,7 +91,7 @@ Otimo APP Estou muito satisfeito.
  Tem me ajudado bastante.
  Uma ferramenta imprescindível.
 Pega sem net Adoro pega mesmo sem internet
-Ótimo GPS comunitário! Recomendo a todos! 
+Ótimo GPS comunitário! Recomendo a todos! 👍
 Waze o melhor aplicativo do mundo Meu ganha pao o melhor aplicativo de transito do mundo
 Excelente, fácil de usar Excelente programa, com o novo visual ficou muito bacana e de fácil utilização
 Precisa melhorar um pouco...
@@ -166,7 +166,7 @@ Top Top
 Bom.
 Sempre que preciso me ajuda muito, nunca me deixou na mão
 Péssimo!!!! Já troquei 2 x de celular (moto G 3 e Samsung A3) e continua procurando rede.
- Já fiz de tudo que podia com os celulares (formatação, poucos aplicativos) e continua procurando rede .
+ Já fiz de tudo que podia com os celulares (formatação, poucos aplicativos) e continua "procurando rede" .
  Desisto! Realmente o problema está no aplicativo.
 Ótima idéia Perfeito
 Mto bom Amei
@@ -182,9 +182,9 @@ Gostei Só demora para atualizar rota e tempo.
 Precisa de uns ajustes Seria ótimo se viessem com versão português ,as instruções de editar mapas
 Show de trânsito Ainda precisa melhorar pois tem ocasiões que nos coloca em lugares com trânsito pior é define péssimas rotas.
  Poderia ter a opção de colocarmos trânsito livre para atualizar os demais usuários
-Muito bom!! Amei!!Muito top!
+Muito bom!! Amei!!Muito top!👏👏👏
 Waze salva minha vida ! Muito bom !! Hj já faz parte de todas as minhas saídas com o carro ! Não tem como sair e não ligar antes !
-Top 
+Top 👏👏👏
 Indispensável!! Uso o Waze mesmo para os trajetos conhecidos, já que pode haver manifestações, engarrafamentos, etc...
 Excelente
 Procurando sinal de gps Dificuldades pra encontar o sinal de localização.....
@@ -206,7 +206,7 @@ Bom mas vive travando Uso em conjunto com o uber mas vive travando.
 Muito bom De vez em quando dá uns doidos mas é o melhor app da categoria
 Muito bom
 Bom
-Ótimo app Sugestão quando chegar próximo a um radar, poderia haver um alerta mais eficiente.
+Ótimo app Sugestão: quando chegar próximo a um radar, poderia haver um alerta mais eficiente.
  O alerta visual que aparece atualmente não chama a atenção do motorista.
  Sugestão seria alterar a cor da tela do waze até passar pelo radar.
 Top demais Melhor do mundo
@@ -250,11 +250,11 @@ Show de bola Muito bom
 Melhor navegador do mundo! Não se vai a qualquer lugar sem ele Perfeito
 O melhor Te Best!
 Mt louco bom aplicativo
-Muito bom esse aplicativo!!!! Vou pra todos os lugares agora
+Muito bom esse aplicativo!!!! Vou pra todos os lugares agora😉
 Excelente
 Decadência A opção de percursos planejados não funciona.
  App também fecha sozinho várias vezes.
- Resumo o aplicativo está ficando horrível.
+ Resumo: o aplicativo está ficando horrível.
 Bom Amável
 Sugestão aos Desenvolvedores Após última atualização, o aplicativo está perdendo o sinal GPS constantemente.
 Ótimo Poderia ter mais opções offline como marcar radares ou bloqueios e assim que tiver rede transmitir as informações
@@ -304,7 +304,7 @@ Excelente Revoluciou a maneira de se locomover em grandes cidades
 Ótimo muito bom
 Ótimo
 Bom Quase sempre da certo☺
-Elogio e Correção! Indispensável, liguei o carro liguei o waze !!! Quando estou em uma área de sombra sem transmissão de dados, não consigo notificar!! Nem deixa marcar o ponto para faze lo depois, quando a rede de dados restabelece ! !
+Elogio e Correção! Indispensável, liguei o carro liguei o waze !!! *Quando estou em uma área de sombra sem transmissão de dados, não consigo notificar!! Nem deixa marcar o ponto para faze lo depois, quando a rede de dados restabelece ! !*
 Melhor prograna Uso todos os dias
 Está lento.
  Tomem cuidado, o app é bom, mas por muitas vezes faz com que venhamos fazer Zig zag por causa de 1 minuto a menos.
@@ -340,7 +340,7 @@ Inteligente! Excelente navegador, comunidade inteligente.
 Muito bom.
  Melhor aplicativo que já usei.
 Após atualização do Android 6 parou de funcionar mas foi só reinstalar que voltou ao normal!
-MOTO MAXX Está mais complicando do que facilitando! Ultimamente está traçando rotas aleatórias, sem uso da IA para cálculo do melhor percurso.
+MOTO MAXX: Está mais complicando do que facilitando! Ultimamente está traçando rotas aleatórias, sem uso da IA para cálculo do melhor percurso.
 Gosto muito!
 Muito bom, mas...
  Consome muita bateria.
